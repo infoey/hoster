@@ -260,7 +260,7 @@ window['' + qeSwmqcvTuis + ''] = (function () {
 					t(!0, o)
 				}
 			},
-			1000)
+			300)
 		},
 		jgostvxJBP: function (e, c) {
 			if ((e) && (o == 0)) {
@@ -334,7 +334,7 @@ window['' + qeSwmqcvTuis + ''] = (function () {
 				if (Q > 0) {
 					return ! 0
 				} else {
-					sessionStorage.setItem('babn', (Math.random() + 1) * 1000)
+					sessionStorage.setItem('babn', (Math.random() + 1) * 300)
 				}
 			};
 			var h = 'Ly95dWkueWFob29hcGlzLmNvbS8zLjE4LjEvYnVpbGQvY3NzcmVzZXQvY3NzcmVzZXQtbWluLmNzcw==';
